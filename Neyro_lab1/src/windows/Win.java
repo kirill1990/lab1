@@ -32,7 +32,7 @@ public class Win extends JFrame
 	private static final long	serialVersionUID	= 1L;
 
 	public final static int		WIDTH				= 300;
-	public final static int		HEIGHT				= 600;
+	public final static int		HEIGHT				= 500;
 
 	private File				selectedFile		= null;
 
